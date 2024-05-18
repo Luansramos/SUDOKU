@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#erros {
+    color: coral;
+    
+}
+br {
+    width: 500px;
+}
+
+#quadro {
+    width: 450px;
+    height: 450px;
+    background-color: yellow;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titulo {
+    width: 48px;
+    height: 48px;
+    border: 1px solid lightgray;
+
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#digitos {
+    width: 450px;
+    height: 50px;
+    background-color: yellow;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.number {
+
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
